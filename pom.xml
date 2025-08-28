@@ -132,7 +132,7 @@
 					<execution>
 						<id>default-cli</id>
 						<configuration>
-							<mainClass>com.example.xshare.HelloApplication</mainClass>
+							<mainClass>com.example.dropx.HelloApplication</mainClass>
 							<launcher>app</launcher>
 							<jlinkZipName>app</jlinkZipName>
 							<jlinkImageName>app</jlinkImageName>
