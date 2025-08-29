@@ -29,7 +29,7 @@ public class NotificationUtil {
         }
 
         SystemTray tray = SystemTray.getSystemTray();
-        Image image = Toolkit.getDefaultToolkit().createImage("com/example/xshare/images/logo.png"); // Provide icon path if needed
+        Image image = Toolkit.getDefaultToolkit().createImage("com/example/dropx/images/logo.png"); // Provide icon path if needed
         TrayIcon trayIcon = new TrayIcon(image, "Java Notification");
 
         trayIcon.setImageAutoSize(true);
